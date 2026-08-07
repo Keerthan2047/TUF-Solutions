@@ -1,6 +1,6 @@
 # 🚀 TUF-Solutions
 
->Solutions for [TakeUForward (TUF+)](https://takeuforward.org/plus?affiliate=arorasir)
+> Auto-synced using [TUFHub](https://github.com/Arora-Sir/TUFHub) - Solutions for [TakeUForward (TUF+)](https://takeuforward.org/plus?affiliate=arorasir)
 
 ## 📊 Solution Progress Summary
 
