@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **3** | 3 | 0 | 0 | `2026-08-07` |
+| **4** | 4 | 0 | 0 | `2026-08-07` |
 
 ---
 
@@ -17,6 +17,7 @@
 | 0001 | [If Else Adult Teen Problem](./DSA/General/if-else-adult-teen-problem) | [CPP](./DSA/General/if-else-adult-teen-problem/solution.cpp) | 🟢 Easy | `DSA` |
 | 0002 | [If ElseIf](./DSA/General/if-elseif) | [CPP](./DSA/General/if-elseif/solution.cpp) | 🟢 Easy | `DSA` |
 | 0003 | [Input Output](./DSA/General/input-output) | [CPP](./DSA/General/input-output/solution.cpp) | 🟢 Easy | `DSA` |
+| 0004 | [Switch Case](./DSA/General/switch-case) | [CPP](./DSA/General/switch-case/solution.cpp) | 🟢 Easy | `DSA` |
 
 ---
 
