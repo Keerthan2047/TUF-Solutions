@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **8** | 8 | 0 | 0 | `2026-08-07` |
+| **9** | 9 | 0 | 0 | `2026-08-07` |
 
 ---
 
@@ -18,10 +18,11 @@
 | 0002 | [If ElseIf](./DSA/General/if-elseif) | [CPP](./DSA/General/if-elseif/solution.cpp) | 🟢 Easy | `DSA` |
 | 0003 | [Input Output](./DSA/General/input-output) | [CPP](./DSA/General/input-output/solution.cpp) | 🟢 Easy | `DSA` |
 | 0004 | [Pattern 1](./DSA/General/pattern-1) | [CPP](./DSA/General/pattern-1/solution.cpp) | 🟢 Easy | `DSA` |
-| 0005 | [Print last character of string](./DSA/Strings/print-last-character-of-string) | [CPP](./DSA/Strings/print-last-character-of-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
-| 0006 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `DSA` |
-| 0007 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0008 | [Switch Case](./DSA/General/switch-case) | [CPP](./DSA/General/switch-case/solution.cpp) | 🟢 Easy | `DSA` |
+| 0005 | [Pattern 2](./DSA/General/pattern-2) | [CPP](./DSA/General/pattern-2/solution.cpp) | 🟢 Easy | `DSA` |
+| 0006 | [Print last character of string](./DSA/Strings/print-last-character-of-string) | [CPP](./DSA/Strings/print-last-character-of-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0007 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `DSA` |
+| 0008 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0009 | [Switch Case](./DSA/General/switch-case) | [CPP](./DSA/General/switch-case/solution.cpp) | 🟢 Easy | `DSA` |
 
 ---
 
