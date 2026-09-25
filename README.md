@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **57** | 54 | 3 | 0 | `2026-09-24` |
+| **58** | 55 | 3 | 0 | `2026-09-25` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (57)
+### DSA (58)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -63,16 +63,17 @@
 | 0045 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `General` | `2026-09-04` |
 | 0046 | [Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [CPP](./DSA/General/return-the-largest-digit-in-a-number/solution.cpp) | 🟢 Easy | `General` | `2026-09-04` |
 | 0047 | [Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟢 Easy | `General` | `2026-09-04` |
-| 0048 | [Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | 🟢 Easy | `Strings` | `2026-09-04` |
-| 0049 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-04` |
-| 0050 | [Rotate String](./DSA/Strings/rotate-string) | [CPP](./DSA/Strings/rotate-string/solution.cpp) | 🟢 Easy | `Strings` | `2026-09-04` |
-| 0051 | [Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [CPP](./DSA/Arrays/sort-characters-by-frequency/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-04` |
-| 0052 | [Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-04` |
-| 0053 | [Sum of Array Elements II](./DSA/Beginner-Problems/sum-of-array-elements-ii) | [CPP](./DSA/Beginner-Problems/sum-of-array-elements-ii/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-09-24` |
-| 0054 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-04` |
-| 0055 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [CPP](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-09-24` |
-| 0056 | [Switch Case](./DSA/General/switch-case) | [CPP](./DSA/General/switch-case/solution.cpp) | 🟢 Easy | `General` | `2026-09-04` |
-| 0057 | [Valid Anagram](./DSA/Strings/valid-anagram) | [CPP](./DSA/Strings/valid-anagram/solution.cpp) | 🟢 Easy | `Strings` | `2026-09-04` |
+| 0048 | [Reverse a String I](./DSA/Beginner-Problems/reverse-a-string-i) | [CPP](./DSA/Beginner-Problems/reverse-a-string-i/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-09-25` |
+| 0049 | [Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | 🟢 Easy | `Strings` | `2026-09-04` |
+| 0050 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-04` |
+| 0051 | [Rotate String](./DSA/Strings/rotate-string) | [CPP](./DSA/Strings/rotate-string/solution.cpp) | 🟢 Easy | `Strings` | `2026-09-04` |
+| 0052 | [Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [CPP](./DSA/Arrays/sort-characters-by-frequency/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-04` |
+| 0053 | [Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-04` |
+| 0054 | [Sum of Array Elements II](./DSA/Beginner-Problems/sum-of-array-elements-ii) | [CPP](./DSA/Beginner-Problems/sum-of-array-elements-ii/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-09-24` |
+| 0055 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-04` |
+| 0056 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [CPP](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-09-24` |
+| 0057 | [Switch Case](./DSA/General/switch-case) | [CPP](./DSA/General/switch-case/solution.cpp) | 🟢 Easy | `General` | `2026-09-04` |
+| 0058 | [Valid Anagram](./DSA/Strings/valid-anagram) | [CPP](./DSA/Strings/valid-anagram/solution.cpp) | 🟢 Easy | `Strings` | `2026-09-04` |
 
 ---
 
